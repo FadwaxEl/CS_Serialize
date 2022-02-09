@@ -1,0 +1,14 @@
+C:\Users\admin\source\repos\Serialisation\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.exe
+C:\Users\admin\source\repos\Serialisation\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.deps.json
+C:\Users\admin\source\repos\Serialisation\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.runtimeconfig.json
+C:\Users\admin\source\repos\Serialisation\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.runtimeconfig.dev.json
+C:\Users\admin\source\repos\Serialisation\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.dll
+C:\Users\admin\source\repos\Serialisation\Serialisation\bin\Debug\netcoreapp3.1\Serialisation.pdb
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.AssemblyInfo.cs
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.dll
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.pdb
+C:\Users\admin\source\repos\Serialisation\Serialisation\obj\Debug\netcoreapp3.1\Serialisation.genruntimeconfig.cache
